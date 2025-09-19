@@ -1,0 +1,12 @@
+Atividade 1
+Reflexão. For é o método mais conciso, ele deixa claro o início, a condição e o incremento
+while é legível, mas ele exige inicialização e incremento fora da implementação do laço
+o goto é confuso, em programas maiores dificultaria muito a manutenção.
+
+Atividade 2
+Reflexão. O switch/case em C organiza melhor múltiplas opções e evita várias verificações if
+agora em Python, if/elif/else é simples e direto, mas em menus grandes pode ficar longo.
+
+Atividade 3
+Reflexão. Usar break, continue e return é mais legível e seguro do que goto.
+com goto, precisaríamos de vários rótulos e saltos, tornando o fluxo difícil de entender.

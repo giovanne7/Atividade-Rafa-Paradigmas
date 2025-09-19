@@ -1,0 +1,8 @@
+Atividade 1
+Reflexão. Passagem por valor copia o valor; alterações não afetam a variável original,
+já a passagem por referência altera a variável original porque o endereço é passado,
+isso mostra como os parâmetros podem controlar o escopo e a vida dos dados dentro de funções.
+
+Atividade 2 (Nota: Não conheço essa linguagem)
+Reflexão. As mensagens de "Corrotina" e "Função normal" se intercalam porque a corrotina é executada concorrentemente,
+corrotinas permitem que várias rotinas compartilhem o tempo de CPU sem criar threads completas, facilitando concorrência leve.
